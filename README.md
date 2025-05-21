@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Genome Compressor: FCM + Arithmetic Coding
 
 A Python tool for compressing viral DNA sequences using Finite Context Models (FCM) and Arithmetic Coding.
@@ -48,3 +49,6 @@ pip install -r requirements.txt
 
 - The FCM+Arithmetic implementation is for demonstration and may not scale to very large genomes.
 - Huffman decompression requires the same session or code modification to save/load the tree.
+=======
+# Viral-Genome-Compression
+>>>>>>> eacdd92fd537c0d7ae548e066dd37d2e3903893f
